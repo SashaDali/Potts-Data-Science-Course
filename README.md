@@ -7,3 +7,7 @@ Instructions for use:
 * In the RStudio console, **only when you're in the project**, run `renv::restore()` to install all the necessary packages we will be using.
 
 You can ignore all the files except for the folders marked "Week #".
+
+---
+Additional information:
+* Packages included using renv: tidyverse, readxl, tidymodels, kknn
